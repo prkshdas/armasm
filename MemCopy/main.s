@@ -1,4 +1,4 @@
-@ Memory copy
+@ Copy data from one memory address to another
 
 .global _start
 
